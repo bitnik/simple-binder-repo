@@ -1,0 +1,7 @@
+name: simple
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyterhub=0.9.4
