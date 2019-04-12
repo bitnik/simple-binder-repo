@@ -1,0 +1,1 @@
+to test symlink dir, it shouldn't be created if a folder with same name in repo exists
